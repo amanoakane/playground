@@ -1,4 +1,9 @@
 git push -u origin learning-rebase
-这个就能push的时候直接关联远程分支了
+#这个就能push的时候直接关联远程分支了
+#-u Is the alias(?) for --set-upstream
 
-git <command> -h : print info for command
+git <command> -h 
+#print info for command
+
+git push origin --delete <remoteBranchName>
+#This command can delete branch from remote repository, just like deleting branches using the UI on github.com
