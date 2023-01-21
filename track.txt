@@ -1,1 +1,4 @@
-test.
+git push -u origin learning-rebase
+这个就能push的时候直接关联远程分支了
+
+git <command> -h : print info for command
