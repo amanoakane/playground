@@ -7,3 +7,6 @@ git <command> -h
 
 git push origin --delete <remoteBranchName>
 #This command can delete branch from remote repository, just like deleting branches using the UI on github.com
+
+git checkout <commit>
+#This will make you into a detached mode. 
